@@ -1,4 +1,4 @@
-# Noir Circuit Tutorials
+# Noir Circuit 
 
 In this directory, we provide a handful of Noir circuit tutorials which have been prepared for use with Sindri.
 
